@@ -22,6 +22,13 @@ To get funny jokes
 'pip install pyjokes'
 `pip install pyjokes`
 
+To get time 
+'pip install time'
+`pip install time`
+or
+'pip install TIME-python'
+`pip install TIME-python`
+
 ### For linux users
 Learn all the above commands on terminal. Make sure to use 'pip3', because in linux 'pip' refers for 'python2' and 'pip3' refers to 'python3'.
 Learn all the above commands on terminal. Make sure to use `pip3`, because in linux `pip` refers for `python2` and `pip3` refers to `python3`.
